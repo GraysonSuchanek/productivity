@@ -1,0 +1,17 @@
+.headerBoarder {
+  padding: 2% 3%;
+}
+
+.headerOption {
+  padding: 1.5% 2%;
+  margin: 0 3%;
+}
+
+.centerOption {
+  text-align: center;
+}
+
+.date {
+  text-align: center;
+  margin-right: auto;
+}
